@@ -1,9 +1,14 @@
-# api documentation for  [grunt-ftp-deploy (v0.1.10)](https://github.com/zonak/grunt-ftp-deploy)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-ftp-deploy.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-ftp-deploy) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-ftp-deploy.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-ftp-deploy)
+# npmdoc-grunt-ftp-deploy
+
+#### api documentation for  [grunt-ftp-deploy (v0.1.10)](https://github.com/zonak/grunt-ftp-deploy)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-ftp-deploy.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-ftp-deploy) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-ftp-deploy.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-ftp-deploy)
+
 #### Deployment over FTP
 
-[![NPM](https://nodei.co/npm/grunt-ftp-deploy.png?downloads=true)](https://www.npmjs.com/package/grunt-ftp-deploy)
+[![NPM](https://nodei.co/npm/grunt-ftp-deploy.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-ftp-deploy)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-ftp-deploy/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-grunt-ftp-deploy_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-ftp-deploy/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-grunt-ftp-deploy/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-grunt-ftp-deploy/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-ftp-deploy/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-ftp-deploy/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-grunt-ftp-deploy/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Zoran Nakev",
-        "email": "zoran.nakev@gmail.com"
+        "name": "Zoran Nakev"
     },
     "bugs": {
         "url": "https://github.com/zonak/grunt-ftp-deploy/issues"
@@ -58,13 +62,11 @@
     ],
     "maintainers": [
         {
-            "name": "zonak",
-            "email": "zoran.nakev@gmail.com"
+            "name": "zonak"
         }
     ],
     "name": "grunt-ftp-deploy",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/zonak/grunt-ftp-deploy.git"
@@ -75,16 +77,6 @@
     "version": "0.1.10"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module grunt-ftp-deploy](#apidoc.module.grunt-ftp-deploy)
-
-
-
-# <a name="apidoc.module.grunt-ftp-deploy"></a>[module grunt-ftp-deploy](#apidoc.module.grunt-ftp-deploy)
 
 
 
