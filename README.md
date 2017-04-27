@@ -1,6 +1,6 @@
 # npmdoc-grunt-ftp-deploy
 
-#### api documentation for  [grunt-ftp-deploy (v0.1.10)](https://github.com/zonak/grunt-ftp-deploy)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-ftp-deploy.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-ftp-deploy) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-ftp-deploy.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-ftp-deploy)
+#### basic api documentation for  [grunt-ftp-deploy (v0.1.10)](https://github.com/zonak/grunt-ftp-deploy)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-ftp-deploy.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-ftp-deploy) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-ftp-deploy.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-ftp-deploy)
 
 #### Deployment over FTP
 
@@ -74,7 +74,8 @@
     "scripts": {
         "test": "grunt"
     },
-    "version": "0.1.10"
+    "version": "0.1.10",
+    "bin": {}
 }
 ```
 
