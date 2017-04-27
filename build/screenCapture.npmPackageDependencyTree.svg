@@ -45,8 +45,8 @@
 <tspan x="10" y="682">  │ ├── underscore.string@2.2.1 </tspan>
 <tspan x="10" y="698">  │ └── which@1.0.9 </tspan>
 <tspan x="10" y="714">  ├─┬ jsftp@1.5.5 </tspan>
-<tspan x="10" y="730">  │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="746">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="730">  │ ├─┬ debug@2.6.5 </tspan>
+<tspan x="10" y="746">  │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="762">  │ ├─┬ ftp-response-parser@1.0.1 </tspan>
 <tspan x="10" y="778">  │ │ └─┬ readable-stream@1.1.14 </tspan>
 <tspan x="10" y="794">  │ │   ├── core-util-is@1.0.2 </tspan>
